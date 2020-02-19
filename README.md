@@ -12,25 +12,37 @@ Configs and notes refer to this specific printer.
 Z Axis seems to have perodic error!
 
 Print 2cm block in vase mode, count layers, and periods.
+
 .15mm layers, 20mm total = 133 Layers.
+
 Looks like 20 TPI thread, 1.27mm pitch.
+
 15.74 revolutions of Z axis thread, this is my guess for # Z bands
+
 Yes! A tiny bit less than 16 bands in the block, will look at lower Z pulleys
 
 Bed heater fuse holder damaged, [color=#FF0000]wire getting SO hot! [/color]
 
 Y axis, belt and idler setup is STUPID.
+
 problem 1: Teeth run on smooth idlers, much vibration! Sad!
+
 problem 2: Belt pulls at angle at far ends of Y axis. Systematic trigonometric error over Y travel, Fake News!
+
 problem 3: Y belt rubs on Z belt!
 
 Make Y axis great again: Added half twist, swapped rear idler. Even nicer to have toothed idler on back. Angle reduced!
 
 E2 fan dead Fixed
+
 Heating elements 15v open circuit, 2 ohm
+
 Heat blocks and barrels covered and filled with burnt plastic.
+
 Bad assembly, remember assembly order and nozzle locked to barrel!
+
 need 55mm m6 1.75m barrels
+
 Ordered 50mm, best I could do, should work.
 
 Extruder fans always on why? Because they are attached to 12v power rail, not fan connections.
@@ -45,8 +57,11 @@ Front Panel: Panucatt Devices Viki LCD https://www.panucatt.com/product_p/vikilc
 LCD: JHD629-204a
 
 Extruders are on thermocouples
+
 Bed is on thermistor on T2
+
 Extruder heaters are on SCRs
+
 Bed heater is on a relay, no pwm!
 
 ## Firmware:
