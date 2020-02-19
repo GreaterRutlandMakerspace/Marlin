@@ -39,7 +39,9 @@ We could connect them there and turn them on above a certain extruder temp, but 
 ## Controller:
 
 Megatronics v2.0 Rev D
+
 Front Panel: Panucatt Devices Viki LCD https://www.panucatt.com/product_p/vikilcd.htm
+
 LCD: JHD629-204a
 
 Extruders are on thermocouples
@@ -68,9 +70,7 @@ echo:SD init fail
 ```
 
 M115:
-[code]
-FIRMWARE_NAME:Marlin V1; Sprinter/grbl mashup for gen6 FIRMWARE_URL:http://www.mendel-parts.com PROTOCOL_VERSION:1.0 MACHINE_TYPE:Mendel EXTRUDER_COUNT:2
-[/code]
+`FIRMWARE_NAME:Marlin V1; Sprinter/grbl mashup for gen6 FIRMWARE_URL:http://www.mendel-parts.com PROTOCOL_VERSION:1.0 MACHINE_TYPE:Mendel EXTRUDER_COUNT:2`
 
 Current Settings:
 ```
