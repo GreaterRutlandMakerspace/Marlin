@@ -9,6 +9,7 @@ Configs and notes refer to this specific printer.
 
 ## Hardware:
 
+### Z
 Z Axis seems to have perodic error!
 
 Print 2cm block in vase mode, count layers, and periods.
@@ -23,15 +24,16 @@ Yes! A tiny bit less than 16 bands in the block, will look at lower Z pulleys
 
 Bed heater fuse holder damaged, [color=#FF0000]wire getting SO hot! [/color]
 
+### Y
 Y axis, belt and idler setup is STUPID.
 
-problem 1: Teeth run on smooth idlers, much vibration! Sad!
-
-problem 2: Belt pulls at angle at far ends of Y axis. Systematic trigonometric error over Y travel, Fake News!
-
-problem 3: Y belt rubs on Z belt!
+* problem 1: Teeth run on smooth idlers, much vibration! Sad!
+* problem 2: Belt pulls at angle at far ends of Y axis. Systematic trigonometric error over Y travel, Fake News!
+* problem 3: Y belt rubs on Z belt!
 
 Make Y axis great again: Added half twist, swapped rear idler. Even nicer to have toothed idler on back. Angle reduced!
+
+### Extruders
 
 E2 fan dead Fixed
 
